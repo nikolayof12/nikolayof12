@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hello! I'm Nikolay</h1>
 
+
 <!--
 **nikolayof12/nikolayof12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +18,8 @@ Here are some ideas to get you started:
 
 ## About me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nikolayof)
+[![Email](https://www.flaticon.com/free-icon/mail_546394?term=mail&page=1&position=28&origin=search&related_id=546394)](nikolayof12@gmail.com)
+
+
+I am actively studying C programming.
+Linux kernel contributor (drivers/staging).
