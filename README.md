@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ## About me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nikolayof)
-[![Email](https://img.shields.io/badge/Email-e84b2c?logo=Gmail&logoColor=white
-)](nikolayof23@gmail.com)
+[![Email](https://img.shields.io/badge/Email-d14836?logo=Gmail&logoColor=white
+)](mailto:nikolayof23@gmail.com)
 
 
 I am actively studying C programming.
