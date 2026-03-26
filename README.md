@@ -1,6 +1,3 @@
-<h1 align="center">👋 Hello! I'm Nikolay</h1>
-
-
 <!--
 **nikolayof12/nikolayof12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,5 +18,3 @@ Here are some ideas to get you started:
 
 
 I am actively studying C programming.
-
-Linux kernel contributor (drivers/staging).
